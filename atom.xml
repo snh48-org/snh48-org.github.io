@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tgames321.github.io</id>
     <title>Gridea2</title>
-    <updated>2020-03-03T20:03:16.902Z</updated>
+    <updated>2020-03-04T18:56:56.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tgames321.github.io"/>
     <link rel="self" href="https://tgames321.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://tgames321.github.io/images/avatar.png</logo>
     <icon>https://tgames321.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea2</rights>
+    <entry>
+        <title type="html"><![CDATA[test.]]></title>
+        <id>https://tgames321.github.io/post/test/</id>
+        <link href="https://tgames321.github.io/post/test/">
+        </link>
+        <updated>2020-03-04T18:42:33.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://tgames321.github.io/post-images/1583347398252.jpg" alt="" loading="lazy"><iframe src="//player.bilibili.com/player.html?aid=89923043&cid=153583693&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tgames321.github.io/post/hello-gridea/</id>
