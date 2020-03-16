@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tgames321.github.io</id>
+    <id>https://snh48-org.github.io</id>
     <title>Gridea2</title>
-    <updated>2020-03-16T09:50:13.532Z</updated>
+    <updated>2020-03-16T12:37:32.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tgames321.github.io"/>
-    <link rel="self" href="https://tgames321.github.io/atom.xml"/>
+    <link rel="alternate" href="https://snh48-org.github.io"/>
+    <link rel="self" href="https://snh48-org.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://tgames321.github.io/images/avatar.png</logo>
-    <icon>https://tgames321.github.io/favicon.ico</icon>
+    <logo>https://snh48-org.github.io/images/avatar.png</logo>
+    <icon>https://snh48-org.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea2</rights>
     <entry>
         <title type="html"><![CDATA[test.]]></title>
-        <id>https://tgames321.github.io/post/test/</id>
-        <link href="https://tgames321.github.io/post/test/">
+        <id>https://snh48-org.github.io/post/test/</id>
+        <link href="https://snh48-org.github.io/post/test/">
         </link>
         <updated>2020-03-04T18:42:33.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://tgames321.github.io/post-images/1583347398252.jpg" alt="" loading="lazy"><iframe src="//player.bilibili.com/player.html?aid=89923043&cid=153583693&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+        <content type="html"><![CDATA[<p><img src="https://snh48-org.github.io/post-images/1583347398252.jpg" alt="" loading="lazy"><iframe src="//player.bilibili.com/player.html?aid=89923043&cid=153583693&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tgames321.github.io/post/hello-gridea/</id>
-        <link href="https://tgames321.github.io/post/hello-gridea/">
+        <id>https://snh48-org.github.io/post/hello-gridea/</id>
+        <link href="https://snh48-org.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p><img src="https://tgames321.github.io/post-images/1583265494239.jpg" alt="" loading="lazy">👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://tgames321.github.io/post-images/1583265494239.jpg" alt="" loading="lazy">👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p><img src="https://snh48-org.github.io/post-images/1583265494239.jpg" alt="" loading="lazy">👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
