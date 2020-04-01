@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.snh48.org</id>
+    <id>https://snh48-org.github.io</id>
     <title>i河导航 - GL的自我修养</title>
-    <updated>2020-04-01T08:01:04.011Z</updated>
+    <updated>2020-04-01T08:04:09.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.snh48.org"/>
-    <link rel="self" href="https://www.snh48.org/atom.xml"/>
+    <link rel="alternate" href="https://snh48-org.github.io"/>
+    <link rel="self" href="https://snh48-org.github.io/atom.xml"/>
     <subtitle>SNH48 Group的导航站</subtitle>
-    <logo>https://www.snh48.org/images/avatar.png</logo>
-    <icon>https://www.snh48.org/favicon.ico</icon>
+    <logo>https://snh48-org.github.io/images/avatar.png</logo>
+    <icon>https://snh48-org.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, i河导航 - GL的自我修养</rights>
 </feed>
